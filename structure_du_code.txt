@@ -1,0 +1,30 @@
+PROJET_PYTHON_ILYAN_RADJABALY/
+├── data/
+│   └── donnees.csv
+└── main.py
+├── rapports_écrits/
+│   └── rapport_complet.ipynb
+│   └── rapport_latex_complet.pdf
+├── resultats/
+│   └── beta_titres.xlsx
+│   └── distribution_sharpe.png
+│   └── matrice_correlation.png
+│   └── performance_cumulee.png
+│   └── portefeuille_optimise.xlsx
+│   └── statistiques.xlsx
+└── structure_du_code.txt
+├── traitement/
+│   └── __init__.py
+│   └── analyse.py
+│   └── beta_calcul.py
+│   └── matrice_correlation.py
+│   └── nettoyage.py
+│   └── optimisation.py
+├── utils/
+│   └── __init__.py
+│   └── affichage.py
+│   └── export.py
+│   └── struct.py
+├── visualisation/
+    └── __init__.py
+    └── graphiques.py
